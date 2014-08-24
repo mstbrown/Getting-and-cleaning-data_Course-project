@@ -50,12 +50,12 @@ tidy dataset.
 "2". the input data and accompanying descriptions for this dataset 
 are the following files which must be moved to the working 
 directory in R:
-X_test.txt 
-X_train.txt
-y_test.txt 
-y_train.txt
-subject_test.txt
-subject_train.txt
+X_test.txt, 
+X_train.txt,
+y_test.txt, 
+y_train.txt,
+subject_test.txt,
+subject_train.txt,
 
 the output data for this dataset is a tidy dataset named
 "tidy_data.txt". The variables in the tidy dataset are in
