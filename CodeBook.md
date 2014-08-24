@@ -5,7 +5,7 @@
  
  "1". The variables for my tidy dataset are a subset of the 
  Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide 
- Anguita. November 2012 database. There are 68 variables
+ Anguita. November 2012 database. There are 66 variables
  copied in those original authors' naming convention such 
  that: "t" denotes a time domain signal; "Body" or "Gravity" 
  denotes the acceleration signal type; "Acc" or "Gyro" denotes 
@@ -39,6 +39,13 @@ I have subsetted the authors' original dataset to include only
 two variables that were estimated from these signals, specifically: 
 mean(): Mean value
 std(): Standard deviation
+
+There are two additional variables; "subject" which represents the 
+person who was wearing the smartphone when the data was gathered and
+"activity-type" which represents the type of physical activity the 
+subject was performing. Thus there are 68 total columns in the 
+tidy dataset.
+
 
 "2". the input data and accompanying descriptions for this dataset 
 are the following files which must be moved to the working 
