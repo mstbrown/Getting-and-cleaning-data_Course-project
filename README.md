@@ -14,8 +14,8 @@ The dataset includes the following files:
 
 - 'run_analysis.R': A script that performs the transformations from 
   the original database to the tidy dataset. There are extensive
-  comments within the script to describe which files must be moved
-  to the working directory.
+  comments within the script. The following files must be moved
+  to the working directory: 
 
 - 'CodeBook.md': describes the variables, data, and transformations 
   that I performed to clean up the data. The units of the data are 
