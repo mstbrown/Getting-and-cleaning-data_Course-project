@@ -3,7 +3,7 @@
  2. the data, and 
  3. the transformations that I performed to clean up the data.
  
- "1". The variables for my tidy dataset come from the 
+ "1". The variables for my tidy dataset are a subset of the 
  Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide 
  Anguita. November 2012 database. There are 68 variables
  copied in those original authors' naming convention such 
