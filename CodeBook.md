@@ -71,8 +71,16 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these
 signals producing fBodyAcc-XYZ, fBodyAccJerk-XYZ, fBodyGyro-XYZ, 
 fBodyAccJerkMag, fBodyGyroMag, fBodyGyroJerkMag. (Note the 'f' to 
 indicate frequency domain signals)." 
+
 These signals were used to estimate the variables described in "1. 
 The variables..." above.
+
+In my tidy dataset output, each variable is averaged for each 
+activity and each subject. This results in 10299 observations being
+averaged such that thier mean values are displayed in 180 rows. 
+Therefore the units of the tidy dataset are the mean for each 
+activity and each subject of the units in the original dataset 
+described above.
 
 "3". the transformations that I performed to clean up the data. The 
 tidy dataset departs from the original authors' database in the following
