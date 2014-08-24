@@ -94,5 +94,5 @@ ways:
 "5b".	As described in "2. the output data..." above, my script titled
     "run_analysis.R" creates a second, independent tidy data set with the 
     average of each variable for each activity and each subject. Further,
-    these transformations are described in additional detial in the
+    these transformations are described in additional detail in the
     "run_analysis.R" script.
