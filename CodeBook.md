@@ -85,12 +85,12 @@ described above.
 "3". the transformations that I performed to clean up the data. The 
 tidy dataset departs from the original authors' database in the following
 ways:
-"1".	I have merged the training and the test sets to create one data set.
-"2".	I have extracted only the measurements on the mean and standard 
+"1b".	I have merged the training and the test sets to create one data set.
+"2b".	I have extracted only the measurements on the mean and standard 
     deviation for each measurement. 
-"3".	I used descriptive activity names to name the activities in the 
+"3b".	I used descriptive activity names to name the activities in the 
     data set
-"4".	I appropriately labeled the data set with descriptive variable names. 
-"5".	As described in "2. the output data..." above, my script titled
+"4b".	I appropriately labeled the data set with descriptive variable names. 
+"5b".	As described in "2. the output data..." above, my script titled
     "run_analysis.R" creates a second, independent tidy data set with the 
     average of each variable for each activity and each subject. 
