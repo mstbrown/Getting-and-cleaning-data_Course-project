@@ -1,5 +1,4 @@
  A code book that describes:
- Notes Code Book: 
  1. the variables, 
  2. the data, and 
  3. the transformations that I performed to clean up the data.
