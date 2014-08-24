@@ -96,7 +96,7 @@ data6<-aggregate(data5[,3:68], by=list(data5[,1],data5[,2]),mean)
 #rename the first two columns
 colnames(data6)[1]<-"subject"
 colnames(data6)[2]<-"activity-type"
-#Last step: create a tidy dataset
+#Last step: create a tidy dataset.
 write.table(data6,"tidy_data.txt",row.name=FALSE)
 
 #useful note, step 5 can be doublechecked by confirming that subsetting would
