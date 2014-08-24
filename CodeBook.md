@@ -87,7 +87,8 @@ activity and each subject. This results in 10299 observations being
 averaged such that thier mean values are displayed in 180 rows. 
 Therefore the units of the tidy dataset are the mean for each 
 activity and each subject of the units in the original dataset 
-described above.
+described above. The 180 rows represent the data collected 
+from 30 subjects while they wore a smartphones and performed 6 activities.
 
 "3". the transformations that I performed to clean up the data. The 
 tidy dataset departs from the original authors' database in the following
