@@ -93,4 +93,6 @@ ways:
 "4b".	I appropriately labeled the data set with descriptive variable names. 
 "5b".	As described in "2. the output data..." above, my script titled
     "run_analysis.R" creates a second, independent tidy data set with the 
-    average of each variable for each activity and each subject. 
+    average of each variable for each activity and each subject. Further,
+    these transformations are described in additional detial in the
+    "run_analysis.R" script.
